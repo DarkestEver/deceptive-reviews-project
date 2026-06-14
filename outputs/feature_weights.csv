@@ -1,0 +1,31 @@
+rank,feature,weight,direction
+1,chicago,2.4465,deceptive
+2,luxury,1.4809,deceptive
+3,food,1.2194,deceptive
+4,seemed,1.2124,deceptive
+5,hilton,1.0833,deceptive
+6,staying,1.0403,deceptive
+7,hotel chicago,0.9517,deceptive
+8,chicago hotel,0.9226,deceptive
+9,atmosphere,0.9167,deceptive
+10,luxurious,0.9151,deceptive
+11,hilton chicago,0.9016,deceptive
+12,would recommend,0.8986,deceptive
+13,towel,0.882,deceptive
+14,needed,0.8776,deceptive
+15,smelled,0.8606,deceptive
+1,floor,-1.4864,genuine
+2,elevator,-1.4633,genuine
+3,location,-1.3644,genuine
+4,window,-1.2824,genuine
+5,street,-1.2075,genuine
+6,priceline,-1.2074,genuine
+7,river,-1.1798,genuine
+8,concierge,-1.1277,genuine
+9,rate,-1.0942,genuine
+10,problem,-1.091,genuine
+11,helpful,-1.0298,genuine
+12,quiet,-1.0254,genuine
+13,night,-1.021,genuine
+14,doorman,-1.0027,genuine
+15,small,-0.9417,genuine

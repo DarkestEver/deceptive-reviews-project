@@ -1,0 +1,9 @@
+{
+  "total_reviews": 1600,
+  "flagged_deceptive": 812,
+  "deception_index": 0.507,
+  "avg_authenticity": 0.496,
+  "sentiment_divergence": 0.351,
+  "mismatch_pct": 31.2,
+  "mean_polarity": 0.2
+}
